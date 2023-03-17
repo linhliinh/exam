@@ -1,0 +1,15 @@
+D:\unity\bài tập\giải lab\Dang Vu Linh\Dang Vu Linh\bin\Debug\net7.0\Dang Vu Linh.exe
+D:\unity\bài tập\giải lab\Dang Vu Linh\Dang Vu Linh\bin\Debug\net7.0\Dang Vu Linh.deps.json
+D:\unity\bài tập\giải lab\Dang Vu Linh\Dang Vu Linh\bin\Debug\net7.0\Dang Vu Linh.runtimeconfig.json
+D:\unity\bài tập\giải lab\Dang Vu Linh\Dang Vu Linh\bin\Debug\net7.0\Dang Vu Linh.dll
+D:\unity\bài tập\giải lab\Dang Vu Linh\Dang Vu Linh\bin\Debug\net7.0\Dang Vu Linh.pdb
+D:\unity\bài tập\giải lab\Dang Vu Linh\Dang Vu Linh\obj\Debug\net7.0\Dang Vu Linh.csproj.AssemblyReference.cache
+D:\unity\bài tập\giải lab\Dang Vu Linh\Dang Vu Linh\obj\Debug\net7.0\Dang Vu Linh.GeneratedMSBuildEditorConfig.editorconfig
+D:\unity\bài tập\giải lab\Dang Vu Linh\Dang Vu Linh\obj\Debug\net7.0\Dang Vu Linh.AssemblyInfoInputs.cache
+D:\unity\bài tập\giải lab\Dang Vu Linh\Dang Vu Linh\obj\Debug\net7.0\Dang Vu Linh.AssemblyInfo.cs
+D:\unity\bài tập\giải lab\Dang Vu Linh\Dang Vu Linh\obj\Debug\net7.0\Dang Vu Linh.csproj.CoreCompileInputs.cache
+D:\unity\bài tập\giải lab\Dang Vu Linh\Dang Vu Linh\obj\Debug\net7.0\Dang Vu Linh.dll
+D:\unity\bài tập\giải lab\Dang Vu Linh\Dang Vu Linh\obj\Debug\net7.0\refint\Dang Vu Linh.dll
+D:\unity\bài tập\giải lab\Dang Vu Linh\Dang Vu Linh\obj\Debug\net7.0\Dang Vu Linh.pdb
+D:\unity\bài tập\giải lab\Dang Vu Linh\Dang Vu Linh\obj\Debug\net7.0\Dang Vu Linh.genruntimeconfig.cache
+D:\unity\bài tập\giải lab\Dang Vu Linh\Dang Vu Linh\obj\Debug\net7.0\ref\Dang Vu Linh.dll
